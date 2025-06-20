@@ -1,0 +1,33 @@
+1) normal
+2) high hr
+3) low hr
+4) high hr, tachy
+5) low hr, brady
+6) low bp
+7) high bp
+8) low bp, flutter
+9) high bp, atrial
+10) high hr, high bp
+11) low hr, high bp
+12) high hr, low bp
+13) low hr, low bp
+14) high hr, high bp, tachy
+15) high hr, low bp, tachy
+16) low hr, high bp, brady
+17) low hr, low bp, brady (Sue)
+18) num purges
+19) low hr, high bp, purg (1-10)
+20) high hr, high bp, purg (1-10)
+21) low hr, low bp, purg (1-10)
+22) high hr, low bp, purg (1-10)
+23) num palps
+24) low hr, high bp, palp (1-5)
+25) high hr, high bp, palp (1-5)
+26) low hr, low bp, palp (1-5)
+27) high hr, low bp, palp (1-5)
+28) purg (1-10), palp (1-5)
+29) low hr, high bp, purg, palp
+30) high hr, high bp, purg, palp
+31) low hr, low bp, purg, palp
+32) high hr, low bp, purg palp (Ceily)
+33) extras
